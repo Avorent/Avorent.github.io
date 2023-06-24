@@ -1,0 +1,257 @@
+{
+    "hero": {
+        "legion": "str",
+        "class": "explorer",
+        "type": "warrior"
+    },
+    "paladin": {
+        "legion": "str",
+        "class": "explorer",
+        "type": "warrior"
+    },
+    "dark-knight": {
+        "legion": "hp%",
+        "class": "explorer",
+        "type": "warrior"
+    },
+    "archmage-f/p": {
+        "legion": "mp%",
+        "class": "explorer",
+        "type": "mage"
+    },
+    "archmage-i/l": {
+        "legion": "int",
+        "class": "explorer",
+        "type": "mage"
+    },
+    "bishop": {
+        "legion": "int",
+        "class": "explorer",
+        "type": "mage"
+    },
+    "bowmaster": {
+        "legion": "dex",
+        "class": "explorer",
+        "type": "bowman"
+    },
+    "marksman": {
+        "legion": "crit-rate%",
+        "class": "explorer",
+        "type": "bowman"
+    },
+    "pathfinder": {
+        "legion": "dex",
+        "class": "explorer",
+        "type": "bowman"
+    },
+    "night-lord": {
+        "legion": "crit-rate%",
+        "class": "explorer",
+        "type": "thief"
+    },
+    "shadower": {
+        "legion": "luk",
+        "class": "explorer",
+        "type": "thief"
+    },
+    "dual-blade": {
+        "legion": "luk",
+        "class": "explorer",
+        "type": "pirate"
+    },
+    "buccaneer": {
+        "legion": "str",
+        "class": "explorer",
+        "type": "pirate"
+    },
+    "corsair": {
+        "legion": "summon-duration%",
+        "class": "explorer",
+        "type": "pirate"
+    },
+    "cannoneer": {
+        "legion": "str",
+        "class": "explorer",
+        "type": "pirate"
+    },
+    "jett": {
+        "legion": "crit-damage%",
+        "class": "explorer",
+        "type": "pirate"
+    },
+    "dawn-warrior": {
+        "legion": "hp",
+        "class": "cygnus",
+        "type": "warrior"
+    },
+    "blaze-wizard": {
+        "legion": "int",
+        "class": "cygnus",
+        "type": "mage"
+    },
+    "wind-archer": {
+        "legion": "dex",
+        "class": "cygnus",
+        "type": "bowman"
+    },
+    "night-walker": {
+        "legion": "luk",
+        "class": "cygnus",
+        "type": "thief"
+    },
+    "thunder-breaker": {
+        "legion": "str",
+        "class": "cygnus",
+        "type": "pirate"
+    },
+    "mihile": {
+        "legion": "hp",
+        "class": "cygnus",
+        "type": "warrior"
+    },
+    "aran": {
+        "legion": "recover-hp%",
+        "class": "hero",
+        "type": "warrior"
+    },
+    "evan": {
+        "legion": "recover-mp%",
+        "class": "hero",
+        "type": "mage"
+    },
+    "mercedes": {
+        "legion": "cd-reduction%",
+        "class": "hero",
+        "type": "bowman"
+    },
+    "phantom": {
+        "legion": "meso%",
+        "class": "hero",
+        "type": "thief"
+    },
+    "shade": {
+        "legion": "crit-damage%",
+        "class": "hero",
+        "type": "pirate"
+    },
+    "luminous": {
+        "legion": "int",
+        "class": "hero",
+        "type": "mage"
+    },
+    "demon-slayer": {
+        "legion": "resist",
+        "class": "resistance",
+        "type": "warrior"
+    },
+    "demon-avenger": {
+        "legion": "boss-dmg%",
+        "class": "resistance",
+        "type": "warrior"
+    },
+    "blaster": {
+        "legion": "ied%",
+        "class": "resistance",
+        "type": "warrior"
+    },
+    "battle-mage": {
+        "legion": "int",
+        "class": "resistance",
+        "type": "mage"
+    },
+    "wild-hunter": {
+        "legion": "chance-dmg%",
+        "class": "resistance",
+        "type": "bowman"
+    },
+    "mechanic": {
+        "legion": "buff-duration%",
+        "class": "resistance",
+        "type": "pirate"
+    },
+    "xenon": {
+        "legion": "str-dex-luk",
+        "class": "resistance",
+        "type": "xenon"
+    },
+    "hayato": {
+        "legion": "crit-damage%",
+        "class": "sengoku",
+        "type": "warrior"
+    },
+    "kanna": {
+        "legion": "boss-dmg%",
+        "class": "sengoku",
+        "type": "mage"
+    },
+    "kaiser": {
+        "legion": "str",
+        "class": "nova",
+        "type": "warrior"
+    },
+    "kain": {
+        "legion": "dex",
+        "class": "nova",
+        "type": "bowman"
+    },
+    "cadena": {
+        "legion": "luk",
+        "class": "nova",
+        "type": "thief"
+    },
+    "angelic-buster": {
+        "legion": "dex",
+        "class": "nova",
+        "type": "pirate"
+    },
+    "adele": {
+        "legion": "str",
+        "class": "flora",
+        "type": "warrior"
+    },
+    "illium": {
+        "legion": "int",
+        "class": "flora",
+        "type": "mage"
+    },
+    "khali": {
+        "legion": "luk",
+        "class": "flora",
+        "type": "thief"
+    },
+    "ark": {
+        "legion": "str",
+        "class": "flora",
+        "type": "pirate"
+    },
+    "lara": {
+        "legion": "int",
+        "class": "anima",
+        "type": "mage"
+    },
+    "hoyoung": {
+        "legion": "luk",
+        "class": "anima",
+        "type": "thief"
+    },
+    "zero": {
+        "legion": "exp%",
+        "class": "zero",
+        "type": "warrior"
+    },
+    "kinesis": {
+        "legion": "int",
+        "class": "kinesis",
+        "type": "mage"
+    },
+    "beast-tamer": {
+        "legion": "ied%",
+        "class": "beast-tamer",
+        "type": "mage"
+    },
+    "mo-xuan": {
+        "legion": "crit-damage%",
+        "class": "mo-xuan",
+        "type": "pirate"
+    }
+}
