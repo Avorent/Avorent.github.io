@@ -2,7 +2,7 @@
 	/**
 	 * @type {String[]}
 	 */
-	export let paths = [];
+	export let paths = []
 </script>
 
 {#each paths as path}
