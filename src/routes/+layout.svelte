@@ -2,16 +2,12 @@
     import Header from '$lib/components/Header.svelte'
 	/** @type {import('./$types').LayoutData} */
 	export let data;
-
-    console.log(data)
+    console.info(data)
 </script>
 
 <Header/>
-{#if data.paths[0] != ""}
+{#if data.hrefs}
 <ul>
-    <li>
-        <a href="/">HOME</a>
-    </li>
     {#each data.paths as path, i}
     <li>
         <a href={data.hrefs[i]}>{path.toLocaleUpperCase()}</a>
