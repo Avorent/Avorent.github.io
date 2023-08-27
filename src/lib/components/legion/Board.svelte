@@ -9,7 +9,7 @@
 <div class="legion-board">
     {#each intialBoard as row, y}
         {#each row as data, x}
-            <div class="legion-cell" data-legion={data} data-xy={{x, y}}/>
+            <div class="legion-cell" data-legion={data} data-x={x} data-y={y}/>
         {/each}
     {/each}
 </div>

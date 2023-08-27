@@ -1,5 +1,7 @@
 <header>
-	<h1>AVORENT</h1>
+	<h1>
+		<a href="/">AVORENT</a>
+	</h1>
 </header>
 
 <style>
